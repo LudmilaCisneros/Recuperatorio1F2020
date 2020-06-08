@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1589839440 source:c:\users\lu\desktop\parcial_1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"utn.h"
+	"clientes.h"
+
+1589763249 c:\users\lu\desktop\parcial_1\utn.h
+
+1589838402 c:\users\lu\desktop\parcial_1\clientes.h
+
+1589847250 source:c:\users\lu\desktop\parcial_1\clientesymascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientesYmascotas.h"
+	"utn.h"
+
+1589847140 source:c:\users\lu\desktop\parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientesYmascotas.h"
+	"utn.h"
+	<string.h>
+
+1589847255 c:\users\lu\desktop\parcial_1\clientesymascotas.h
+	"mascotas.h"
+	"clientes.h"
+
+1589841650 c:\users\lu\desktop\parcial_1\mascotas.h
+
+1589844491 source:c:\users\lu\desktop\parcial_1\mascotas.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"mascotas.h"
+
+1589763239 source:c:\users\lu\desktop\parcial_1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
